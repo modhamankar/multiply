@@ -1,4 +1,4 @@
 a=5
 b=2
 c=a*b
-printt(c)
+print(c)
